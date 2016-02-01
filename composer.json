@@ -1,0 +1,13 @@
+{
+    "name": "etudiant/movie_ganderer",
+    "description": "Gestion de copies legales de films",
+    "authors": [
+        {
+            "name": "Jo Giacomantonio",
+            "email": "giajo@fake.com"
+        }
+    ],
+    "require": {
+        "jleagle/omdb-imdb-api-client": "^0.1.0"
+    }
+}
